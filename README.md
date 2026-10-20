@@ -10,8 +10,14 @@
   <a href="https://github.com/0xsila">
     <img src="https://img.shields.io/badge/GitHub-0xsila-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/>
+  <a href="https://hackerone.com/0xsila">
+    <img src="https://img.shields.io/badge/HackerOne-0xsila-494649?style=for-the-badge&logo=hackerone" alt="HackerOne"/>
+  </a>
+  <a href="https://tryhackme.com/p/0xsila">
+    <img src="https://img.shields.io/badge/TryHackMe-0xsila-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/>
+  </a>
+  <a href="https://www.linkedin.com/in/0xsila">
+    <img src="https://img.shields.io/badge/LinkedIn-0xsila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:silayahia7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -23,7 +29,7 @@
 ### 🧑‍💻 About Me
 
 - 🔐 Interested in **cybersecurity, penetration testing, and web application security**.
-- 🐛 Exploring **bug bounty hunting**, vulnerability research, and security testing.
+- 🐛 Exploring bug bounty hunting, vulnerability research, and security testing.
 - 💻 I can **write code, build web applications, and automate tasks with scripts**.
 - 🌐 Interested in web technologies, APIs, authentication, and access control.
 - 🛠️ Hands-on experience with security labs, CTFs, and practical cybersecurity projects.
@@ -31,8 +37,6 @@
 - 📫 Reach me at **[silayahia7@gmail.com](mailto:silayahia7@gmail.com)**.
 
 ### 🛡️ Cybersecurity
-
-Areas I'm exploring and practicing:
 
 - Web application penetration testing
 - API security and access control vulnerabilities
@@ -47,7 +51,7 @@ Areas I'm exploring and practicing:
 I enjoy writing code as well as analyzing it for security issues.
 
 - **Web development:** HTML, CSS, JavaScript, PHP
-- **Scripting & automation:** Python and Bash
+- **Scripting & automation:** Python, Bash
 - **Backend & APIs:** Node.js, Express.js, REST APIs
 - **Databases:** MySQL
 - **Development tools:** Git, GitHub, Postman, Docker
@@ -72,10 +76,10 @@ I enjoy writing code as well as analyzing it for security issues.
 
 ### 🏆 Certifications & Achievements
 
-- 🎓 eJPT — Junior Penetration Tester
-- 🎓 CRTA — Certified Red Team Analyst
-- 🏁 2nd place at HackINI 2.0 with Team Tawat
-- 🧩 Hands-on practice through TryHackMe, PortSwigger Web Security Academy, and CTF challenges
+- 🎓 **eJPT** — Junior Penetration Tester
+- 🎓 **CRTA** — Certified Red Team Analyst
+- 🏁 **2nd place at HackINI 2.0** with Team Tawat
+- 🧩 Practical learning through TryHackMe, PortSwigger Web Security Academy, and CTF challenges
 
 ### 📊 GitHub Statistics
 
